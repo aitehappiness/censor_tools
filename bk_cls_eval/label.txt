@@ -1,0 +1,6 @@
+0	bloodiness
+1	bomb
+2	beheaded
+3	march
+4	fight
+5	normal
